@@ -1,9 +1,8 @@
----
-name: 'Feature'
+name: "Feature"
 about: Issue Template for new features
-title: 'Feature:'
-labels: ''
-assignees: ''
+title: "Feature:"
+labels: ""
+assignees: ""
 body:
   - type: input
     id: contact
@@ -52,6 +51,3 @@ body:
       options:
         - label: I agree to follow this project's Code of Conduct
           required: true
----
-
-
